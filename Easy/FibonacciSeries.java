@@ -33,5 +33,6 @@ public class FibonacciSeries {
             nextTerm=a+b;
         }
         System.out.println();
+        sc.close();
     }
 }
