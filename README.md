@@ -36,22 +36,92 @@ preparing you for advanced DSA topics with ease.
 ## 📂 Repository Structure
 
 ```
-Respo-150-Fundamentals/
+DSA-150-Fundamentals/
 ├── README.md                 # Project documentation
-├── Problems/
-│   ├── Problem_1.md          # Individual problem files
-│   ├── Problem_2.md
+├── Easy/
+│   ├── Problem_1          # Individual problem files
+│   ├── Problem_2
 │   ├── ...
-├── Solutions/
-│   ├── Solution_1.py         # Solution files in Python
-│   ├── Solution_2.js         # Solutions available in different languages
+├── Medium/
+│   ├── Problem_1         
+│   ├── Problem_2         
 │   ├── ...
-└── Resources/
-    ├── references.md         # Helpful links and references
-    ├── study-guides.md       # Additional study guides by topic
+└── Hard/
+    ├── Problem_1
+    ├── Problem_2
+    ├── ...
 ```
+## 📂 Easy
+     1. Determining Even/Odd Numbers.  
+     2. Checking for Prime Numbers.  
+     3. Validating Leap Years.
+     4. Calculating Armstrong Numbers.
+     5. Generating the Fibonacci Series. 
+     6. Identifying Palindromes.  
+     7. Crafting Star Patterns.
+     8. Finding the Factorial of a Number.  
+     9. Summing Digits of a Number.
+    10. Finding the Greatest Common Divisor (GCD).
+    11. Finding the Least Common Multiple (LCM).
+    12. Counting Vowels and Consonants in a String.
+    13. Reversing a String.
+    14. Finding the Largest and Smallest Numbers in an Array. 
+    15. Sorting an Array.
+    16. Finding the Sum of Elements in an Array.
+    17. Checking for Armstrong Numbers in a Range.
+    18. Generating Multiplication Tables.
+    19. Finding Prime Numbers in a Range.  
+    20. Checking for Perfect Numbers.
+    21. Calculating the Sum of Even Numbers in a Range.  
+    22. Calculating the Sum of Odd Numbers in a Range.
+    23. Finding the Fibonacci Number at a Specific Position.  
+    24. Printing Prime Numbers Less Than a Given Number.  
+    25. Finding the Number of Digits in a Number.
+    26. Checking if a Number is a Narcissistic Number.  
+    27. Generating a Pattern of Numbers.
+    28. Finding the Sum of the Digits of the Factorial of a Number.
+    29. Finding the Largest Palindrome in a String. 
+    30. Finding Missing Numbers in a Sequence.
+    31. Calculating the Power of a Number.  
+    32. Checking for an Anagram.
+    33. Finding the N-th Triangular Number.  
+    34. Checking for Perfect Squares.
+    35. Finding the Sum of Squares of Digits.
+    36. Finding the Count of Specific Digits in a Number.  
+    37. Finding All Divisors of a Number.
+    38. Finding the Average of Numbers in an Array.
+    39. Finding the Sum of Digits of a Number Until Zero.  
+    40. Generating a Multiplication Table for a Range. 
+    41. Generating a Matrix with Multiplication Table.
+    42. Finding the Sum of the First N Odd Numbers.  
+    43. Finding the Sum of Numbers in a String.
+    44. Checking for Perfect Squares in a Range.
+    45. Finding the Sum of Diagonal Elements in a Matrix. 
+    46. Finding the Second Smallest Number in an Array.
+    47. Finding the Sum of Digits of the Product of Two Numbers.  
+    48. Generating a Matrix with Alternating 0s and 1s.
+    49. Finding the Count of a Specific Word in a String.
+    50. Generating a Right-Angle Triangle Pattern of Numbers.
+    51. Finding the Number of Words in a String. 
+    52. Finding the Sum of the First N Even Numbers.
+    53. Finding the Count of Digits Greater Than a Specific Value.  
+    54. Finding the Largest Element in Each Row of a Matrix. 
+    55. Finding the Frequency of Each Character in a String. 
+    56. Generating a Matrix with Random Numbers.
+    57. Finding the Length of the Longest Word in a String.
+    58. Finding the Difference Between the Sum of Even and Odd Numbers in an Array.
+    59. Generating a Triangle Pattern of Stars with a Given Height.
+    60: Print a Square of Stars.
+    61: Print a Diamond Pattern.
+    62: Print a Hollow Square of Stars.
+    63: Print an Inverted Triangle Pattern.
+    64: Print a Diamond Pattern with Numbers.
+    65: Print a Pyramid Pattern with Numbers.
+## 📂 Medium
+    1. Generating a Pascal’s Triangle.  
+    2. Finding the Median of an Array. 
 
----
+
 
 ## 🚀 Getting Started
 
