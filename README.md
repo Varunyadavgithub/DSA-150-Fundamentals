@@ -120,8 +120,7 @@ DSA-150-Fundamentals/
 ## 📂 Medium
     1. Generating a Pascal’s Triangle.  
     2. Finding the Median of an Array. 
-
-
+    3. Finding the Sum of Prime Numbers in a Range.
 
 ## 🚀 Getting Started
 
