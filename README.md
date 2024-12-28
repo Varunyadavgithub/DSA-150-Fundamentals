@@ -123,7 +123,8 @@ DSA-150-Fundamentals/
     3. Finding the Sum of Prime Numbers in a Range.
     4. Generating a Square Matrix of a Given Size.
     5. Generating a Fibonacci Sequence Using Recursion. 
-
+    6. Finding the Mode of Numbers in an Array.
+    
 ## 🚀 Getting Started
 
 1. **Clone the Repository**:
