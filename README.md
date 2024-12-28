@@ -121,6 +121,7 @@ DSA-150-Fundamentals/
     1. Generating a Pascal’s Triangle.  
     2. Finding the Median of an Array. 
     3. Finding the Sum of Prime Numbers in a Range.
+    4. Generating a Square Matrix of a Given Size.
 
 ## 🚀 Getting Started
 

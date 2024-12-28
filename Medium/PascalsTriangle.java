@@ -1,5 +1,3 @@
-package Medium;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -52,7 +50,7 @@ public class PascalsTriangle {
         List<List<Integer>> triangle = generatePascalsTriangle(rows);
         printPascalsTriangle(triangle);
         sc.close();
-        
+
         // Method - 2
         // Scanner sc = new Scanner(System.in);
         // System.out.print("Enter the number of rows for Pascal's triangle: ");
@@ -60,12 +58,12 @@ public class PascalsTriangle {
 
         // // Generate and print Pascal's Triangle
         // for (int i = 0; i < rows; i++) {
-        //     int number = 1; // First number in a row is always 1
-        //     for (int j = 0; j <= i; j++) {
-        //         System.out.print(number + " ");
-        //         number = number * (i - j) / (j + 1);
-        //     }
-        //     System.out.println();
+        // int number = 1; // First number in a row is always 1
+        // for (int j = 0; j <= i; j++) {
+        // System.out.print(number + " ");
+        // number = number * (i - j) / (j + 1);
+        // }
+        // System.out.println();
         // }
         // sc.close();
     }

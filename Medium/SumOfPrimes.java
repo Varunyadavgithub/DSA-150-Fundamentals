@@ -1,5 +1,3 @@
-package Medium;
-
 // 3. Finding the Sum of Prime Numbers in a Range.  
 // Difficulty: Medium  
 // Topics: Number Theory, Mathematical Computations  

@@ -1,5 +1,3 @@
-package Medium;
-
 import java.util.Scanner;
 import java.util.Arrays;
 // 2. Finding the Median of an Array  
@@ -16,11 +14,12 @@ public class FindMedian {
         Arrays.sort(arr);
         int n = arr.length;
         if (n % 2 == 0) {
-            // If the array has an even number of elements, return the average of the two middle elements
+            // If the array has an even number of elements, return the average of the two
+            // middle elements
             return (arr[n / 2 - 1] + arr[n / 2]) / 2.0;
-        }else{
+        } else {
             // If the array has an odd number of elements, return the middle element
-            return arr[n/2];
+            return arr[n / 2];
         }
     }
 
