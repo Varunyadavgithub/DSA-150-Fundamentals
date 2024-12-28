@@ -122,6 +122,7 @@ DSA-150-Fundamentals/
     2. Finding the Median of an Array. 
     3. Finding the Sum of Prime Numbers in a Range.
     4. Generating a Square Matrix of a Given Size.
+    5. Generating a Fibonacci Sequence Using Recursion. 
 
 ## 🚀 Getting Started
 
