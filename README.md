@@ -124,7 +124,8 @@ DSA-150-Fundamentals/
     4. Generating a Square Matrix of a Given Size.
     5. Generating a Fibonacci Sequence Using Recursion. 
     6. Finding the Mode of Numbers in an Array.
-    
+    7. Determining the Length of a String Without Using Built-In Functions.
+
 ## 🚀 Getting Started
 
 1. **Clone the Repository**:
