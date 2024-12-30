@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class StringLength {
     public static int findLength(String str){
         int length=0;
-        for(char ch:str.toCharArray()){
+        for(char _:str.toCharArray()){
             length++;
         }
         return length;
