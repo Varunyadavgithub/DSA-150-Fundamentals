@@ -127,6 +127,7 @@ DSA-150-Fundamentals/
     7. Determining the Length of a String Without Using Built-In Functions.
     8. Finding the Second Largest Number in an Array.
     9. Finding the Longest Substring Without Repeating Characters.
+    10. Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n).
 
 ## 🚀 Getting Started
 
