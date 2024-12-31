@@ -126,6 +126,7 @@ DSA-150-Fundamentals/
     6. Finding the Mode of Numbers in an Array.
     7. Determining the Length of a String Without Using Built-In Functions.
     8. Finding the Second Largest Number in an Array.
+    9. Finding the Longest Substring Without Repeating Characters.
 
 ## 🚀 Getting Started
 
