@@ -135,6 +135,7 @@ DSA-150-Fundamentals/
     10. Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n).
     11. Finding All Pairs of Elements in an Array that Add Up to a Given Sum.
     12. Counting the Number of Palindromic Substrings in a String.  
+    13. Finding the GCD of Multiple Numbers.
 
 ## 🚀 Getting Started
 
