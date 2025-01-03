@@ -136,6 +136,7 @@ DSA-150-Fundamentals/
     11. Finding All Pairs of Elements in an Array that Add Up to a Given Sum.
     12. Counting the Number of Palindromic Substrings in a String.  
     13. Finding the GCD of Multiple Numbers.
+    14. Finding the Number of Perfect Numbers Up to a Given Limit.
 
 ## 🚀 Getting Started
 
