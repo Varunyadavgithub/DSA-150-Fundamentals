@@ -137,6 +137,7 @@ DSA-150-Fundamentals/
     12. Counting the Number of Palindromic Substrings in a String.  
     13. Finding the GCD of Multiple Numbers.
     14. Finding the Number of Perfect Numbers Up to a Given Limit.
+    15. Finding the Largest Prime Factor of a Number.
 
 ## 🚀 Getting Started
 
