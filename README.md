@@ -139,6 +139,7 @@ DSA-150-Fundamentals/
     14. Finding the Number of Perfect Numbers Up to a Given Limit.
     15. Finding the Largest Prime Factor of a Number.
     16. Generating a Matrix of Fibonacci Numbers.
+    17. Finding the Sum of the First N Prime Numbers.  
 
 ## 🚀 Getting Started
 
