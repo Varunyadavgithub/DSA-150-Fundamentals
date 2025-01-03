@@ -138,6 +138,7 @@ DSA-150-Fundamentals/
     13. Finding the GCD of Multiple Numbers.
     14. Finding the Number of Perfect Numbers Up to a Given Limit.
     15. Finding the Largest Prime Factor of a Number.
+    16. Generating a Matrix of Fibonacci Numbers.
 
 ## 🚀 Getting Started
 
