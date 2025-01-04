@@ -140,6 +140,7 @@ DSA-150-Fundamentals/
     15. Finding the Largest Prime Factor of a Number.
     16. Generating a Matrix of Fibonacci Numbers.
     17. Finding the Sum of the First N Prime Numbers.  
+    18. Checking for a Balanced Bracket Sequence.  
 
 ## 🚀 Getting Started
 
