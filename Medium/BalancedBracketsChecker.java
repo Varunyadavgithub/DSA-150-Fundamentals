@@ -10,7 +10,7 @@
 // import java.util.Stack;
 
 public class BalancedBracketsChecker {
-    // Balanced Brackets Checker Without Stack Data Structure.
+    // Balanced Brackets Checker Without using Stack Data Structure.
     public static boolean isBalanced(String str) {
         int round = 0, square = 0, curly = 0;
         for (char ch : str.toCharArray()) {

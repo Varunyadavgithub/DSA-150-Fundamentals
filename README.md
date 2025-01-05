@@ -141,6 +141,7 @@ DSA-150-Fundamentals/
     16. Generating a Matrix of Fibonacci Numbers.
     17. Finding the Sum of the First N Prime Numbers.  
     18. Checking for a Balanced Bracket Sequence.  
+    19. Finding the Longest Consecutive Sequence in an Array.  
 
 ## 🚀 Getting Started
 
