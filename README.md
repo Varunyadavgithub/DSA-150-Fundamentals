@@ -143,6 +143,8 @@ DSA-150-Fundamentals/
     18. Checking for a Balanced Bracket Sequence.  
     19. Finding the Longest Consecutive Sequence in an Array.  
     20. Generating a Matrix with a Spiral Pattern.  
+    21. Finding All Subsets of a Set.  
+
 
 ## 🚀 Getting Started
 
