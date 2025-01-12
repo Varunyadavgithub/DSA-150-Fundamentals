@@ -145,7 +145,8 @@ DSA-150-Fundamentals/
     20. Generating a Matrix with a Spiral Pattern.  
     21. Finding All Subsets of a Set.  
     22. Checking for Palindromic Numbers in a Range.  
-
+    23. Finding the Largest Sum of a Subarray.  
+    24. Finding All Divisors of the Product of Two Numbers.  
 
 ## 🚀 Getting Started
 

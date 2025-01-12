@@ -1,4 +1,4 @@
-// 23. Finding the Largest Sum of a Subarray.  
+// 23. Finding the Largest Sum of a Subarray.
 // Difficulty: Medium  
 // Topics: Arrays, Dynamic Programming  
 // Description: Write a program to find the largest sum of any contiguous subarray.  
