@@ -147,6 +147,7 @@ DSA-150-Fundamentals/
     22. Checking for Palindromic Numbers in a Range.  
     23. Finding the Largest Sum of a Subarray.  
     24. Finding All Divisors of the Product of Two Numbers.  
+    25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.  
 
 ## 🚀 Getting Started
 
