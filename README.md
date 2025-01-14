@@ -149,6 +149,7 @@ DSA-150-Fundamentals/
     24. Finding All Divisors of the Product of Two Numbers.  
     25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.  
     26. Calculating the Sum of the First N Fibonacci Numbers.  
+    27. Checking for a Repeated Substring in a String.  
 
 ## 🚀 Getting Started
 
