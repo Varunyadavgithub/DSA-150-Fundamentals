@@ -148,6 +148,7 @@ DSA-150-Fundamentals/
     23. Finding the Largest Sum of a Subarray.  
     24. Finding All Divisors of the Product of Two Numbers.  
     25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.  
+    26. Calculating the Sum of the First N Fibonacci Numbers.  
 
 ## 🚀 Getting Started
 
