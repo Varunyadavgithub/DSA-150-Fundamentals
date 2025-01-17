@@ -150,6 +150,7 @@ DSA-150-Fundamentals/
     25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.  
     26. Calculating the Sum of the First N Fibonacci Numbers.  
     27. Checking for a Repeated Substring in a String.  
+    28. Finding the Median of a List of Numbers.  
 
 ## 🚀 Getting Started
 
