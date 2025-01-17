@@ -151,6 +151,7 @@ DSA-150-Fundamentals/
     26. Calculating the Sum of the First N Fibonacci Numbers.  
     27. Checking for a Repeated Substring in a String.  
     28. Finding the Median of a List of Numbers.  
+    29. Generating a Matrix with a Diagonal Pattern.  
 
 ## 🚀 Getting Started
 
