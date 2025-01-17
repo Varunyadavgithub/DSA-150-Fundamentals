@@ -152,6 +152,7 @@ DSA-150-Fundamentals/
     27. Checking for a Repeated Substring in a String.  
     28. Finding the Median of a List of Numbers.  
     29. Generating a Matrix with a Diagonal Pattern.  
+    30. Generating a Pattern of Prime Numbers.  
 
 ## 🚀 Getting Started
 
