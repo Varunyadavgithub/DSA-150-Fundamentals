@@ -161,6 +161,7 @@ DSA-150-Fundamentals/
     36: Print a Pattern of Consecutive Numbers.
     37: Print a Star Pattern with Increasing Width.
     38: Print a Right-Angle Triangle Pattern with Characters.
+    39: Print a Checkerboard Pattern.
 
 ## 🚀 Getting Started
 
