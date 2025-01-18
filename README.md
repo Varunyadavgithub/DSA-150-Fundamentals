@@ -164,6 +164,7 @@ DSA-150-Fundamentals/
     39: Print a Checkerboard Pattern.
     40: Print a Border Pattern with Numbers.
     41: Print an Inverted Pyramid Pattern with Characters.
+    42: Print a Cross Pattern with Stars.
 
 ## 🚀 Getting Started
 
