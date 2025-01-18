@@ -156,6 +156,7 @@ DSA-150-Fundamentals/
     31. Finding the Common Elements in Two Arrays.   
     32. Finding the Sum of the Squares of All Even Numbers Up to N.  
     33. Checking for Anagram Pairs in a List of Strings.  
+    34. Finding All Triplets in an Array That Sum to Zero.
 
 ## 🚀 Getting Started
 
