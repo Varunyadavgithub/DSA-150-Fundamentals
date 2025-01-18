@@ -158,6 +158,7 @@ DSA-150-Fundamentals/
     33. Checking for Anagram Pairs in a List of Strings.  
     34. Finding All Triplets in an Array That Sum to Zero.
     35: Print a Pattern of Alternating 0s and 1s.
+    36: Print a Pattern of Consecutive Numbers.
 
 ## 🚀 Getting Started
 
