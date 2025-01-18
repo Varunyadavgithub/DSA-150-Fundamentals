@@ -165,6 +165,9 @@ DSA-150-Fundamentals/
     40: Print a Border Pattern with Numbers.
     41: Print an Inverted Pyramid Pattern with Characters.
     42: Print a Cross Pattern with Stars.
+    43. Finding the Sum of Prime Factors of a Number.  
+
+## 📂 Hard
 
 ## 🚀 Getting Started
 
