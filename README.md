@@ -159,6 +159,7 @@ DSA-150-Fundamentals/
     34. Finding All Triplets in an Array That Sum to Zero.
     35: Print a Pattern of Alternating 0s and 1s.
     36: Print a Pattern of Consecutive Numbers.
+    37: Print a Star Pattern with Increasing Width.
 
 ## 🚀 Getting Started
 
