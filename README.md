@@ -160,6 +160,7 @@ DSA-150-Fundamentals/
     35: Print a Pattern of Alternating 0s and 1s.
     36: Print a Pattern of Consecutive Numbers.
     37: Print a Star Pattern with Increasing Width.
+    38: Print a Right-Angle Triangle Pattern with Characters.
 
 ## 🚀 Getting Started
 
