@@ -157,6 +157,7 @@ DSA-150-Fundamentals/
     32. Finding the Sum of the Squares of All Even Numbers Up to N.  
     33. Checking for Anagram Pairs in a List of Strings.  
     34. Finding All Triplets in an Array That Sum to Zero.
+    35: Print a Pattern of Alternating 0s and 1s.
 
 ## 🚀 Getting Started
 
