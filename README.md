@@ -155,6 +155,7 @@ DSA-150-Fundamentals/
     30. Generating a Pattern of Prime Numbers. 
     31. Finding the Common Elements in Two Arrays.   
     32. Finding the Sum of the Squares of All Even Numbers Up to N.  
+    33. Checking for Anagram Pairs in a List of Strings.  
 
 ## 🚀 Getting Started
 
