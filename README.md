@@ -163,6 +163,7 @@ DSA-150-Fundamentals/
     38: Print a Right-Angle Triangle Pattern with Characters.
     39: Print a Checkerboard Pattern.
     40: Print a Border Pattern with Numbers.
+    41: Print an Inverted Pyramid Pattern with Characters.
 
 ## 🚀 Getting Started
 
