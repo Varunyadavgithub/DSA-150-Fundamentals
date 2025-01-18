@@ -162,6 +162,7 @@ DSA-150-Fundamentals/
     37: Print a Star Pattern with Increasing Width.
     38: Print a Right-Angle Triangle Pattern with Characters.
     39: Print a Checkerboard Pattern.
+    40: Print a Border Pattern with Numbers.
 
 ## 🚀 Getting Started
 
