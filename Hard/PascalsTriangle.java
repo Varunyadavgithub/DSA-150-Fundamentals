@@ -13,7 +13,6 @@ import java.util.Scanner;
 //             1 1
 //            1 2 1
 //           1 3 3 1
-// ```
 
 public class PascalsTriangle {
     public static void printPascalsTriangle(int n) {

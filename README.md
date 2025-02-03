@@ -170,6 +170,7 @@ DSA-150-Fundamentals/
 ## 📂 Hard
 
      1: Print a Pascal’s Triangle.
+     2: Print a Matrix with Zigzag Pattern.
 
 ## 🚀 Getting Started
 
