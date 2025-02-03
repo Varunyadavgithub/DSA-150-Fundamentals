@@ -134,28 +134,28 @@ DSA-150-Fundamentals/
      9. Finding the Longest Substring Without Repeating Characters.
     10. Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n).
     11. Finding All Pairs of Elements in an Array that Add Up to a Given Sum.
-    12. Counting the Number of Palindromic Substrings in a String.  
+    12. Counting the Number of Palindromic Substrings in a String.
     13. Finding the GCD of Multiple Numbers.
     14. Finding the Number of Perfect Numbers Up to a Given Limit.
     15. Finding the Largest Prime Factor of a Number.
     16. Generating a Matrix of Fibonacci Numbers.
-    17. Finding the Sum of the First N Prime Numbers.  
-    18. Checking for a Balanced Bracket Sequence.  
-    19. Finding the Longest Consecutive Sequence in an Array.  
-    20. Generating a Matrix with a Spiral Pattern.  
-    21. Finding All Subsets of a Set.  
-    22. Checking for Palindromic Numbers in a Range.  
-    23. Finding the Largest Sum of a Subarray.  
-    24. Finding All Divisors of the Product of Two Numbers.  
-    25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.  
-    26. Calculating the Sum of the First N Fibonacci Numbers.  
-    27. Checking for a Repeated Substring in a String.  
-    28. Finding the Median of a List of Numbers.  
-    29. Generating a Matrix with a Diagonal Pattern.  
-    30. Generating a Pattern of Prime Numbers. 
-    31. Finding the Common Elements in Two Arrays.   
-    32. Finding the Sum of the Squares of All Even Numbers Up to N.  
-    33. Checking for Anagram Pairs in a List of Strings.  
+    17. Finding the Sum of the First N Prime Numbers.
+    18. Checking for a Balanced Bracket Sequence.
+    19. Finding the Longest Consecutive Sequence in an Array.
+    20. Generating a Matrix with a Spiral Pattern.
+    21. Finding All Subsets of a Set.
+    22. Checking for Palindromic Numbers in a Range.
+    23. Finding the Largest Sum of a Subarray.
+    24. Finding All Divisors of the Product of Two Numbers.
+    25. Finding the Longest Sequence of Consecutive 1s in a Binary Array.
+    26. Calculating the Sum of the First N Fibonacci Numbers.
+    27. Checking for a Repeated Substring in a String.
+    28. Finding the Median of a List of Numbers.
+    29. Generating a Matrix with a Diagonal Pattern.
+    30. Generating a Pattern of Prime Numbers.
+    31. Finding the Common Elements in Two Arrays.
+    32. Finding the Sum of the Squares of All Even Numbers Up to N.
+    33. Checking for Anagram Pairs in a List of Strings.
     34. Finding All Triplets in an Array That Sum to Zero.
     35: Print a Pattern of Alternating 0s and 1s.
     36: Print a Pattern of Consecutive Numbers.
@@ -165,9 +165,11 @@ DSA-150-Fundamentals/
     40: Print a Border Pattern with Numbers.
     41: Print an Inverted Pyramid Pattern with Characters.
     42: Print a Cross Pattern with Stars.
-    43. Finding the Sum of Prime Factors of a Number.  
+    43. Finding the Sum of Prime Factors of a Number.
 
 ## 📂 Hard
+
+     1: Print a Pascal’s Triangle.
 
 ## 🚀 Getting Started
 
