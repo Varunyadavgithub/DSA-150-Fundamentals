@@ -174,6 +174,7 @@ DSA-150-Fundamentals/
      3: Print a Pattern of Alternating Characters in Rows.
      4: Print a Number Pyramid Pattern with Characters.
      5: Print a Pattern with Diagonal Lines.
+     6: Print a Cross Pattern of Stars with Diagonals.
 
 ## 🚀 Getting Started
 
