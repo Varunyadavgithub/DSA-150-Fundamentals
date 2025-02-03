@@ -171,6 +171,7 @@ DSA-150-Fundamentals/
 
      1: Print a Pascal’s Triangle.
      2: Print a Matrix with Zigzag Pattern.
+     3: Print a Pattern of Alternating Characters in Rows.
 
 ## 🚀 Getting Started
 
