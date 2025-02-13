@@ -157,6 +157,7 @@ DSA-150-Fundamentals/
 5. Print a Pattern with Diagonal Lines.
 6. Print a Cross Pattern of Stars with Diagonals.
 7. Print a Pattern with Increasing Characters in Columns.
+8. Print a Matrix with Zigzag Pattern of Stars.
 
 ---
 
