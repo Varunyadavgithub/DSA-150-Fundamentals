@@ -158,6 +158,7 @@ DSA-150-Fundamentals/
 6. Print a Cross Pattern of Stars with Diagonals.
 7. Print a Pattern with Increasing Characters in Columns.
 8. Print a Matrix with Zigzag Pattern of Stars.
+9. Checking if a Number is a Lychrel Number.
 
 ---
 
