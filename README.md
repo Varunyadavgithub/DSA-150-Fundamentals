@@ -160,6 +160,7 @@ DSA-150-Fundamentals/
 8.  Print a Matrix with Zigzag Pattern of Stars.
 9.  Checking if a Number is a Lychrel Number.
 10. Checking if a Number is a Harshad (Niven) Number.
+11. Converting a Decimal Number to Binary.
 
 ---
 
