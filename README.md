@@ -162,6 +162,7 @@ DSA-150-Fundamentals/
 10. Checking if a Number is a Harshad (Niven) Number.
 11. Converting a Decimal Number to Binary.
 12. Converting a Binary Number to Decimal.
+13. Finding the Nth Term in an Arithmetic Progression (AP).
 
 ---
 
