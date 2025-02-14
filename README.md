@@ -163,6 +163,7 @@ DSA-150-Fundamentals/
 11. Converting a Decimal Number to Binary.
 12. Converting a Binary Number to Decimal.
 13. Finding the Nth Term in an Arithmetic Progression (AP).
+14. Finding the Nth Term in a Geometric Progression (GP).  
 
 ---
 
