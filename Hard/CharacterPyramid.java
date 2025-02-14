@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 4: Print a Number Pyramid Pattern with Characters.

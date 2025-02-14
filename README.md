@@ -150,15 +150,16 @@ DSA-150-Fundamentals/
 
 ## 📂 Hard
 
-1. Print a Pascal’s Triangle.
-2. Print a Matrix with Zigzag Pattern.
-3. Print a Pattern of Alternating Characters in Rows.
-4. Print a Number Pyramid Pattern with Characters.
-5. Print a Pattern with Diagonal Lines.
-6. Print a Cross Pattern of Stars with Diagonals.
-7. Print a Pattern with Increasing Characters in Columns.
-8. Print a Matrix with Zigzag Pattern of Stars.
-9. Checking if a Number is a Lychrel Number.
+1.  Print a Pascal’s Triangle.
+2.  Print a Matrix with Zigzag Pattern.
+3.  Print a Pattern of Alternating Characters in Rows.
+4.  Print a Number Pyramid Pattern with Characters.
+5.  Print a Pattern with Diagonal Lines.
+6.  Print a Cross Pattern of Stars with Diagonals.
+7.  Print a Pattern with Increasing Characters in Columns.
+8.  Print a Matrix with Zigzag Pattern of Stars.
+9.  Checking if a Number is a Lychrel Number.
+10. Checking if a Number is a Harshad (Niven) Number.
 
 ---
 

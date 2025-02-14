@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 5: Print a Pattern with Diagonal Lines.

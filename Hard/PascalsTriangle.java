@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 1: Print a Pascal’s Triangle.

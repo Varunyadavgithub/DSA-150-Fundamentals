@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 6: Print a Cross Pattern of Stars with Diagonals.

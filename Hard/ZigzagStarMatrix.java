@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 8: Print a Matrix with Zigzag Pattern of Stars.

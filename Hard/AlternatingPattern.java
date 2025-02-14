@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 3: Print a Pattern of Alternating Characters in Rows.

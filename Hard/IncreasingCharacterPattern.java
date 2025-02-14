@@ -1,5 +1,3 @@
-package Hard;
-
 import java.util.Scanner;
 
 // 7: Print a Pattern with Increasing Characters in Columns.
