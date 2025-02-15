@@ -166,6 +166,7 @@ DSA-150-Fundamentals/
 14. Finding the Nth Term in a Geometric Progression (GP).  
 15. Finding the Nth Catalan Number.
 16. Print the First N Catalan Numbers.
+17. Find the Sum of First N Terms in an Arithmetic Series.
 
 ---
 
