@@ -163,10 +163,11 @@ DSA-150-Fundamentals/
 11. Converting a Decimal Number to Binary.
 12. Converting a Binary Number to Decimal.
 13. Finding the Nth Term in an Arithmetic Progression (AP).
-14. Finding the Nth Term in a Geometric Progression (GP).  
+14. Finding the Nth Term in a Geometric Progression (GP).
 15. Finding the Nth Catalan Number.
 16. Print the First N Catalan Numbers.
 17. Find the Sum of First N Terms in an Arithmetic Series.
+18. Finding the Sum of First N Terms in a Geometric Series.
 
 ---
 
